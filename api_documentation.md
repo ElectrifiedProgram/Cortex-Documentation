@@ -4,7 +4,7 @@
 
 <b>• Fire Recall</b> - ```API:Fire('Fire_Recall', true/false, 1)``` - to initiate fire recall to floor 1
 
-<b>• Fire Service Phase 2</b> - ```lua API:Fire('Phase_2', true/false)``` - enables/disables phase 2 of fire service
+<b>• Fire Service Phase 2</b> - ```API:Fire('Phase_2', true/false)``` - enables/disables phase 2 of fire service
 
 <b>• Stop</b> - ```API:Fire('Stop', true/false)``` - stops/unstops the elevator
 
